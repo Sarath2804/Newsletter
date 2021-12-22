@@ -58,7 +58,7 @@ Database:
         5.errorcommand
         6.response
 
-
+MONGO_URL = mongodb+srv://Sarath:Chandysar%40123@ecommercedb.al9av.mongodb.net/ECOMMERCEdb?retryWrites=true&w=majority
 
 
 
